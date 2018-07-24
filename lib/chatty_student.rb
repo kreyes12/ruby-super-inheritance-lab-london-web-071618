@@ -1,6 +1,6 @@
 class ChattyStudent < Student
   
-  def initialize
-    super
+  def hello
+    puts ""
   
 end
